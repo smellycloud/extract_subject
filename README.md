@@ -13,7 +13,7 @@
 
 **Streamlit UI:** User-friendly interface built with Streamlit for a smooth user experience.   
 
-**Research Exploration:** Delve into the research behind the project in the research.py file.   
+**Research Exploration:** Delve into the research behind the project in the `research.py` file.   
 
 **Future Feature:** Stay tuned for upcoming WhatsApp sticker export functionality!   
 
