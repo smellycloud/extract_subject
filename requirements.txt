@@ -110,7 +110,7 @@ types-requests==2.31.0.6
 types-urllib3==1.26.25.14
 typing_extensions==4.11.0
 tzdata==2024.1
-urllib3==1.26.18
+urllib3==1.26.19
 watchdog==4.0.0
 wcwidth==0.2.13
 webencodings==0.5.1
